@@ -107,6 +107,6 @@
     "@lunie/cosmos-keys": "^0.0.9",
     "ledger-cosmos-js": "^2.0.2",
     "secp256k1": "^3.7.0",
-    "semver": "^6.1.0"
+    "semver": "^7.5.2"
   }
 }
